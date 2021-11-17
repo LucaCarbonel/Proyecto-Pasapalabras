@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="pasapalabra-api-template/.mvn/wrapper"/>
+	<classpathentry kind="src" path="pasapalabra-api-template/src/main/java"/>
+	<classpathentry kind="src" path="pasapalabra-api-template/src/test/java"/>
+	<classpathentry kind="lib" path="__MACOSX/pasapalabra-api-template/.mvn/wrapper/._maven-wrapper.jar"/>
+	<classpathentry kind="output" path="pasapalabra-api-template/target/classes"/>
+</classpath>
